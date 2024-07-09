@@ -1,0 +1,12 @@
+StudentID,Name,CourseID,Grade
+1,Smith Adam,LIS 4046,80
+1,Smith Adam,LIS 3063,85
+1,Smith Adam,LIS 5683,78
+2,Sarah Rayan,LIS 4046,90
+2,Sarah Rayan,LIS 3063,95
+2,Sarah Rayan,LIS 5683,88
+2,Sarah Rayan,,
+3,Adam Ford,LIS 4046,88
+3,Adam Ford,LIS 3063,87
+3,Adam Ford,LIS 5683,82
+4,Krista Scott,,
